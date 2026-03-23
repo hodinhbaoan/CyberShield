@@ -4,7 +4,8 @@ backend/saved_models/
 # Python cache
 __pycache__/
 
-# Node modules
+# Node modules (IMPORTANT)
+node_modules/
 frontend/node_modules/
 
 # Temp files
